@@ -1,4 +1,7 @@
-# test coverage for  [torrent (v2.0.0)](https://github.com/maxogden/torrent)  [![npm package](https://img.shields.io/npm/v/npmtest-torrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-torrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-torrent.svg)](https://travis-ci.org/npmtest/node-npmtest-torrent)
+# npmtest-torrent
+
+#### test coverage for  [torrent (v2.0.0)](https://github.com/maxogden/torrent)  [![npm package](https://img.shields.io/npm/v/npmtest-torrent.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-torrent) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-torrent.svg)](https://travis-ci.org/npmtest/node-npmtest-torrent)
+
 #### torrent from the command line
 
 [![NPM](https://nodei.co/npm/torrent.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/torrent)
